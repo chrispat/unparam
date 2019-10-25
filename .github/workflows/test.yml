@@ -1,5 +1,4 @@
 on: [push, pull_request]
-# comment
 name: Test
 jobs:
   test:
